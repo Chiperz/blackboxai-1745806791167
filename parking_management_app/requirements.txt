@@ -1,0 +1,5 @@
+tk
+python-barcode
+Pillow
+opencv-python
+pytesseract
